@@ -29,7 +29,7 @@ const Footer = () => {
 					})}
 				</ul>
 				<p className="copyright">
-					copyright&copy; Exotic Landscapes Tours company |
+					copyright&copy; Jagadeeshwaran Eswaran |
 					<span id="date">{new Date().getFullYear()}</span> all rights reserved
 				</p>
 			</footer>
