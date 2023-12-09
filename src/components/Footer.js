@@ -21,7 +21,7 @@ const Footer = () => {
 					{socialLinks.map((ele) => {
 						return (
 							<li key={ele.id}>
-								<a href={ele.href} target="" className="nav-icon">
+								<a href={ele.href} target="" className="footer-icon">
 									<i className={ele.icon}></i>
 								</a>
 							</li>
@@ -29,8 +29,8 @@ const Footer = () => {
 					})}
 				</ul>
 				<p className="copyright">
-					copyright 2023 &copy; Exotic Landscapes Tours company
-					<span id="date"></span> all rights reserved
+					copyright&copy; Exotic Landscapes Tours company |
+					<span id="date">{new Date().getFullYear()}</span> all rights reserved
 				</p>
 			</footer>
 		</div>

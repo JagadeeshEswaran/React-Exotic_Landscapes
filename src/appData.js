@@ -38,3 +38,61 @@ export const servicesIcons = [
 		text: "Indulge in Extraordinary Comfort as You Traverse Nature's Wonders with Us – Elevating Your Experience Beyond Imagination!",
 	},
 ];
+
+export const toursData = [
+	{
+		id: 1,
+		date: "December 26th, 2023",
+		title: "Kashmir Memories",
+		details:
+			"Kashmir, renowned as 'Paradise on Earth,' captivates visitors with its breathtaking landscapes, encompassing snow-capped mountains, serene lakes, and lush meadows.",
+		location: "Northern India",
+		duration: "7days",
+		cost: "from Rs. 25,000",
+		img: "https://group.gtholidays.in/wp-content/uploads/2023/08/Kashmir-Stunning-Nature-View.jpg",
+	},
+	{
+		id: 2,
+		date: "All Fridays",
+		title: "The Golden Triangle",
+		details:
+			"Encompassing Delhi, Agra, and Jaipur, unveils India's historical and architectural splendors. From the iconic Taj Mahal in Agra, vibrant markets of Jaipur and the historical Delhi",
+		location: "Northern India",
+		duration: "3days",
+		cost: "from Rs. 15,000",
+		img: "https://www.gtholidays.in/wp-content/uploads/2019/07/Agra-tajmahal-educational-tour-packages-870x555.jpg",
+	},
+	{
+		id: 3,
+		date: "All Wednesdays",
+		title: "God's Own Country",
+		details:
+			"Beckons with its enchanting backwaters, palm-fringed beaches, and lush greenery. Visitors are immersed in a unique blend of tranquil landscapes",
+		location: "Southern India",
+		duration: "5days",
+		cost: "from Rs. 17,000",
+		img: "https://www.gtholidays.in/wp-content/uploads/2019/07/Munnar-870x555.jpg",
+	},
+	{
+		id: 4,
+		date: "December, 10 2023",
+		title: "Souls of North East",
+		details:
+			"Adventurers with its pristine landscapes, including emerald-green tea plantations, mist-shrouded hills, and cascading waterfalls. This culturally diverse regions",
+		location: "Southern India",
+		duration: "5days",
+		cost: "from Rs. 17,000",
+		img: "https://www.gtholidays.in/wp-content/uploads/2019/07/Ban-Jhakri-Falls-Gangtok-Sikkim-870x555.jpg",
+	},
+	{
+		id: 5,
+		date: "December, 15 2023",
+		title: "Magical Andaman Islands",
+		details:
+			"Lure travelers with their white sandy beaches, vibrant coral reefs, and crystal-clear waters perfect for snorkeling and diving.",
+		location: "Eastern India",
+		duration: "7days",
+		cost: "from Rs. 25,000",
+		img: "https://www.gtholidays.in/wp-content/uploads/2019/07/honeymoon-couple-underwater-diving-in-andaman-870x555.jpeg",
+	},
+];
